@@ -1,0 +1,10 @@
+// Overrides.css.scss
+$navbar-default-bg: black;
+
+// import the Bootstrap Sprockets before Bootstrap framework
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+/* To add background Image 
+ background-image: url("cover_image.jpg");
+*/
